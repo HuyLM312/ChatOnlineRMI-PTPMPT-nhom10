@@ -2,6 +2,6 @@ version: "3.3"
 
 services:
     webswing:
-      image: huy/ptpmpt-nhom10-rmi-server:lastest
+      image: huylm/ptpmpt-nhom10-rmi-server:lastest
       ports:
         - "9999:9999"
