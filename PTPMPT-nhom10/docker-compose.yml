@@ -1,0 +1,7 @@
+version: "3.3"
+
+services:
+    webswing:
+      image: ursarian/ptpmpt-nhom10-rmi-server:lastest
+      ports:
+        - "9999:9999"
